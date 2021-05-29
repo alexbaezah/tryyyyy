@@ -2,19 +2,6 @@ m = 1
 n = 1
 inicio = True
 
-# res = " "
-
-# for l in range(0,m):
-#     res = res+" -"
-# for t in range(0,n):
-#     res = res +"\n| "
-#     for y in range(0,m):
-#         res = res + "  "
-#     res = res + "|"
-# res = res + "\n "
-# for u in range(0,m):
-#     res = res+" -"
-# print(res)
 
 while inicio:
     try: 
